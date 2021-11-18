@@ -7,6 +7,8 @@
 
 import UIKit
 
+//Some comment
+
 struct User: ProducesCardViewModel {
     let name: String
     let age: Int
